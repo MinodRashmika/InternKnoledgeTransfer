@@ -1,0 +1,4 @@
+line 1 - created file
+line 2 - adding more lines for another commit 
+line 3 - only 2 more commits left
+line 4 - final change added for commit
